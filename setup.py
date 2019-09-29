@@ -1,8 +1,8 @@
 from distutils.core import setup
 setup(
   name = 'FuckingSunday',         # How you named your package folder (MyLib)
-  packages = ['FuckingSunday'],   # Chose the same as "name"
-  version = '0.1',      # Start with a small number and increase it with every change you make
+  packages = ['FuckingSunday','FuckingSunday.fuck.that.shit','FuckingSunday.fuck.that.dick','FuckingSunday.sundays.a.fun.day'],   # Chose the same as "name"
+  version = '0.3',      # Start with a small number and increase it with every change you make
   license='MIT',        # Chose a license from here: https://help.github.com/articles/licensing-a-repository
   description = 'Fucking Sunday, guys! It\'s fucking sunday (again!)',   # Give a short description about your library
   author = 'That Dude You Don\'t Want In Your Home',                   # Type in your name
